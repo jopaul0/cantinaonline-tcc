@@ -1,0 +1,27 @@
+{
+    "id": "cantinaonline",
+    "title": "CantinaOnline+",
+    "short_description": "Sistema que gerencia e torna possível compras de produtos online na cantina da escola",
+    "full_description": "CantinaOnline+ é um sistema desenvolvido como projeto de TCC para o curso Técnico em Informática. Seu objetivo é possibilitar a gestão e a realização de compras online na cantina escolar, facilitando o atendimento e a organização dos pedidos.",
+    "technologies": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Bootstrap"
+    ],
+    "links": {
+        "github": "https://github.com/jopaul0/cantinaonline-tcc",
+        "video": "https://drive.google.com/file/d/1LH1A1rWwAm5pE_VVdAxRxdb-YdBoqIxJ/view",
+        "demo": ""
+    },
+    "images": [
+        {
+            "url": "https://raw.githubusercontent.com/jopaul0/cantinaonline-tcc/main/docs/screenshots/home.png",
+            "alt": "Home"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/jopaul0/cantinaonline-tcc/main/docs/screenshots/login.png",
+            "alt": "Login"
+        }
+    ]
+}
